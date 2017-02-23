@@ -1,0 +1,7 @@
+string testfile3 only once
+string everywhere once
+string everywhere twice
+string everywhere twice
+string testfile3 twice
+string testfile3 twice
+string testfile3 testfile2 once
